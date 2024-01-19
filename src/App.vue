@@ -22,7 +22,7 @@ import { RouterLink, RouterView } from 'vue-router'
               <RouterLink to="/login">Login</RouterLink>
             </li>
             <li>
-              <RouterLink to="/logout">Logout</RouterLink>
+              <RouterLink to="/logout">Logout Profile</RouterLink>
             </li>
           </ul>
 
